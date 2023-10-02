@@ -1,0 +1,15 @@
+
+
+
+
+Фамилия :Kuznets Имя :Ivan Отчество :Petrovich Группа :5 Курс :2
+session:3
+Physics 9
+IT 10
+PE 9
+Math 10
+
+session:4
+Geology 10
+Swimming 9
+

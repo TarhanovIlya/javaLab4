@@ -1,0 +1,63 @@
+
+
+
+
+Фамилия :Bondar Имя :Vasily Отчество :Ivanovich Группа :4 Курс :3
+session:1
+Math 8
+IT 9
+PE 7
+Physics 6
+
+session:2
+Geography 4
+Engineering 9
+
+
+
+
+
+Фамилия :Anishcenko Имя :Petr Отчество :Victorovich Группа :7 Курс :5
+session:2
+Physics 6
+IT 8
+PE 4
+Math 9
+
+
+
+
+
+Фамилия :Streltsov Имя :Vitaly Отчество :Antonovich Группа :6 Курс :2
+session:3
+Physics 8
+IT 7
+PE 2
+Math 10
+
+
+
+
+
+Фамилия :Kuznets Имя :Ivan Отчество :Petrovich Группа :5 Курс :2
+session:3
+Physics 9
+IT 10
+PE 9
+Math 10
+
+session:4
+Geology 10
+Swimming 9
+
+
+
+
+
+Фамилия :Voyna Имя :Nastya Отчество :Vasilyeva Группа :5 Курс :3
+session:2
+Physics 2
+IT 8
+PE 5
+Math 9
+

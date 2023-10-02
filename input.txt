@@ -1,0 +1,6 @@
+5
+Bondar Vasily Ivanovich 3 4 SessionNumber 1 Math 8 IT 9 PE 7 Physics 6 SessionNumber 2 Geography 4 Engineering 9
+Anishcenko Petr Victorovich 5 7 SessionNumber 2 Physics 6 IT 8 PE 4 Math 9
+Streltsov Vitaly Antonovich 2 6 SessionNumber 3 Physics 8 IT 7 PE 2 Math 10
+Kuznets Ivan Petrovich 2 5 SessionNumber 3 Physics 9 IT 10 PE 9 Math 10 SessionNumber 4 Geology 10 Swimming 9
+Voyna Nastya Vasilyeva 3 5 SessionNumber 2 Physics 2 IT 8 PE 5 Math 9
